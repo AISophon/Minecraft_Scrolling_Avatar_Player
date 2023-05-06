@@ -5,7 +5,7 @@ Intended for use in server promotional videos to display a list of members.
 
 The method used to implement this is by generating characters corresponding to the ID in the image file, and moving and drawing the character avatars on the screen. The corresponding character ID is displayed below the image. The program adds a new character every 600 milliseconds, and removes the character from the list when their position exceeds the screen height. Characters' positions and states are constantly updated and drawn on the screen in the main loop of the program. The program uses Pygame's timer and event handling mechanism.
 
-**English** | [中文](https://github.com/AISophon/Minecraft_Scrolling_Avatar_Player/blob/master/README_cn.md)
+**English** | [中文](https://github.com/AISophon/Minecraft_Scrolling_Avatar_Player/blob/main/README_cn.md)
 
 ## Precautions:
 - This software is independently developed by AISophon (QQ:`2498946652`)
